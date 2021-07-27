@@ -1,0 +1,2 @@
+This internet sharing tool works by sharing your wired or mobile connection with other computers,
+smartphones, or tablets, which connect to the laptop over Wi-Fi or Ethernet
